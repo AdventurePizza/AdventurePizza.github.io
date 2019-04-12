@@ -1,5 +1,2 @@
-theme: jekyll-theme-minimal
-title: 
-description: test1
+remote_theme: mmistakes/minimal-mistakes
 
-logo: AdventureCorpLogo.png
