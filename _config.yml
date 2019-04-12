@@ -2,3 +2,8 @@ remote_theme: "mmistakes/minimal-mistakes@4.16.0"
 
 plugins:
   - jekyll-include-cache
+
+
+layout: single
+logo: AdventureCorpLogo.png
+
