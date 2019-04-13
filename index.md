@@ -2,7 +2,7 @@
 layout: single
 permalink: /
 title: Welcome to Adventure Corporation!
-author_profile: true
+author_profile: false
 header:
   overlay_image: skyline2.jpg
 excerpt: Begin by checking out our gitcoin page or our new start tutorial!
