@@ -7,7 +7,7 @@ header:
   overlay_image: skyline2.jpg
 excerpt: Begin by checking out our gitcoin page or our new start tutorial!
 ---
-How to Begin!
+## How to Begin!
 
 Here you can find something to work on to help develop our project that matches your skillset. 
 In the navbar above, there are different options to begin working in the space.
