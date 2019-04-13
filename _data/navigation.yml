@@ -1,10 +1,10 @@
 main:
-  - title: "About Us"
-    url: /about/
   - title: "Task List"
     url: /task/
   - title: "Basic Tutorial"
     url: /tutorial/
   - title: "Gitcoin"
     url: /gitcoin/
+  - title: "About Us"
+    url: /about/
 
