@@ -112,15 +112,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your name"
+  name             : "Started by Mike Hoydich"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an "
+  bio              : "CEO and Founder"
   location         : "Los Angeles"
   email            :
   links:
-    - label: "Email"
+    - label: "To Apply, Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:careers@adventure.pizza
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
