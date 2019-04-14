@@ -9,22 +9,16 @@ We are exploring the future of the web.
 
 The web + internet is undergoing massive change; visibly, influenced heavily by immersive computing (augmented and virtual reality) and foundationally via blockchains, crypto currencies and tokens.
 
-* * *
-
 ## Areas of exploration include:
 
 * Next generation web browsers -- as desktop, mobile, AR and VR merge, what are the new browser + wallet + communication possibilities?
-
 * Alt-Hardware -- Haptics, beacons, wearables, measurement devices ...
-
 * Token potentialities -- security, utility, collectible, asset backed ... across various blockchains, simple to complex
-
-* * *
 
 ## Current activities include:
 
-^ Building the infrastructure to support a global, distributed team of designers, strategists and developers
-^ Architecting the frameworks + processes necessary for raising $1 to $1 billion dollars from the new, emerging financial layer (blockchain ecosystem)
+* Building the infrastructure to support a global, distributed team of designers, strategists and developers
+* Architecting the frameworks + processes necessary for raising $1 to $1 billion dollars from the new, emerging financial layer (blockchain ecosystem)
 
 Previous experiments: Metaverse Navigator (raw, alpha stage)
 
