@@ -11,17 +11,13 @@ To begin, one should complete the following readings to get an understanding of 
 ## Ethereum and Blockchain Readings:
 
 * [What is Blockchain Technology?](https://blockgeeks.com/guides/what-is-blockchain-technology/)
-
 * [Ethereum](https://blockgeeks.com/guides/ethereum/)
-
 * [Intro to Programming Smart Contracts](https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4)
-
 * [Getting Up to Speed On Ethereum](https://medium.com/@mattcondon/getting-up-to-speed-on-ethereum-63ed28821bbe)
 
 ## ERC721 Readings:
 
 * [ERC721 Protocol](http://erc721.org/)
-
 * [The Anatomy of ERC721](https://medium.com/crypto-currently/the-anatomy-of-erc721-e9db77abfc24?source=linkShare-9758f7433ae0-1521698854)
 
 Once you have completed these readings and are confident in your 
